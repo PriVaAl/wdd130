@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
 body {
     font-family: var(--paragraph-font);
     max-width: 960px;
@@ -10,13 +10,13 @@ body {
     --accent1-color: #206674;
     --accent2-color: #7FD8BE;
 
-    --heading-font:'Montserrat', serif;
-    --pargraph-font:'Raleway', serif;
+    --heading-font: 'Montserrat', serif;
+    --paragraph-font: 'Raleway', serif;
 
-    --nav-background-color:var(--primary-color);
-    --nav-link-color:var(--accent1-color);
-    --nav-hover-link-color:var(--accent2-color);
-    --nav-hover-background-color:var(--secondary-color);
+    --nav-background-color: var(--primary-color);
+    --nav-link-color: var(--accent1-color);
+    --nav-hover-link-color: var(--accent2-color);
+    --nav-hover-background-color: var(--secondary-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
