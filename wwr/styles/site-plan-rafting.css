@@ -47,7 +47,7 @@ nav a {
 }
 
 nav a:link, nav a:visited {
-    color: var(var(--nav-link-color));
+    color: var(--nav-link-color);
 
 }
 nav a:hover {
