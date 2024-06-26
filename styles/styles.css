@@ -32,6 +32,7 @@ aside{
     text-align: center;
     position: relative;
 }
+
 aside h2{
     position: absolute;
     top: 16px;
@@ -50,7 +51,7 @@ footer{
     text-align: center;
  }
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -64,4 +65,8 @@ footer{
     background-color: #ddd;
     color: #000;
 } 
+
+.indent{
+    padding-left: 2rem;
+}
 
