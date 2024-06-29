@@ -53,13 +53,13 @@ p{
 .hero h1{
     position: absolute;
     top: 320px;
-    left: 10;
+    left: 20px;
     background-color: rgba(40, 41, 42, 0.8);
     color: white;
     font-size: 49px;
-    padding: 10px;
+    padding: 15px;
     width: 97%;
-    border-radius: 5px;
+    border-radius: 3px;
     box-sizing: border-box;
     text-align: center;
 }
