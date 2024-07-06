@@ -167,6 +167,10 @@ nav a:hover {
     margin: 0;
     padding: 0;
     text-align: center;
+    border: 2px solid var(--accent2-color);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
 }
 
 .adventures img {
