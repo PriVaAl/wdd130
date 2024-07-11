@@ -47,7 +47,7 @@ label {
 input[type="text"],
 textarea, 
 select,
-input [type="number"] {
+input[type="number"] {
     width: 100%;
     padding: 8px;
     font-size: 1rem;
