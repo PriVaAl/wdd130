@@ -243,7 +243,7 @@ p{
 
 .contact-container {
     display: flex;
-    gap: 20xp;
+    gap: 20px;
     justify-content: center;
     margin-bottom: 30px;
     color: #333;
@@ -320,7 +320,7 @@ p{
 form {
     width: 100%;
     max-width: 600px;
-    margin: o auto;
+    margin: 0 auto;
     text-align: left;
     color: #333;
 }
