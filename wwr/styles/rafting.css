@@ -436,7 +436,7 @@ button[type="submit"]:hover {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, auto);
-    gap: 20x;
+    gap: 20px;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -468,7 +468,7 @@ button[type="submit"]:hover {
 }
 
 .trip-details p {
-    margin-bottom: o;
+    margin-bottom: 0;
 }
 
 .button-container {
